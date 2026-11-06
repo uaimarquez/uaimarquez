@@ -1,4 +1,4 @@
-# Oi, aqui é uaimarquez 👋
+# Oi, aqui é Gustavo👋
 
 Crio sites simples, bonitos e fáceis de usar, feitos para quem quer aprender algo sem complicação.
 
