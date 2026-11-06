@@ -1,4 +1,4 @@
-# Oi, eu sou Gustavo Marquez 👋
+# Oi, aqui é Gustavo 👋
 
 Estudo e pratico desenvolvimento web. Crio sites fáceis de usar e estudo automação para tirar o trabalho repetitivo da rotina.
 
