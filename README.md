@@ -1,4 +1,4 @@
-# Oi, aqui é Gustavo👋
+# Oi, aqui é uaimarquez 👋
 
 Crio sites simples, bonitos e fáceis de usar, feitos para quem quer aprender algo sem complicação.
 
@@ -8,6 +8,8 @@ Crio sites simples, bonitos e fáceis de usar, feitos para quem quer aprender al
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
   <img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-222222?style=flat-square&logo=githubpages&logoColor=white">
 </p>
+
+<a href="https://www.linkedin.com/in/uaimarquez/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-uaimarquez-0A66C2?style=flat-square"></a>
 
 ## 🚀 Projetos
 
